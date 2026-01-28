@@ -15,10 +15,12 @@ I enjoy building backend systems and learning how scalable software works under 
 - System design fundamentals
 
 ?? Projects:
-- URL Shortener (Go + PostgreSQL)
-- REST API with JWT Authentication
-- Concurrent Task Scheduler in Go
+- Personal Porfolio 
+- Fuel Tracker 
+- CU Library Managmnet System
+- Spin Wheel 
 
 ?? Contact:
 - LinkedIn: shaifinn
 - Email: shaifinchauhan72@gmail.com
+
